@@ -23,6 +23,8 @@ https://github.com/HSSINEYounes/GestionEtabWeb/assets/110121668/337210cf-5d23-45
 https://github.com/HSSINEYounes/GestionEtabWeb/assets/110121668/4f0873b3-71aa-466e-8b5f-4b2f9236826a
 
 ## Gestion des filieres:(Ajout, Suppression, modification)
-https://github.com/HSSINEYounes/GestionEtabWeb/assets/110121668/e09bbc78-c1a9-4060-a6bc-32aecd6e8352
+https://github.com/HSSINEYounes/GestionEtabWeb/assets/110121668/9695d7bf-bc06-481b-a1e2-1c105dd0a40a
+
+
 
 
